@@ -21,4 +21,9 @@
     xmlns:aicpextras="http://schemas.android.com/apk/res-auto"
     android:title="@string/lockscreen_title">
 
+    <com.aicp.extras.preference.SystemSettingSwitchPreference
+        android:key="lockscreen_battery_info"
+        android:title="@string/lockscreen_battery_info_title"
+        android:summary="@string/lockscreen_battery_info_summary"
+        android:defaultValue="false" />
 </PreferenceScreen>
