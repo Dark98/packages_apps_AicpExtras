@@ -386,6 +386,11 @@
     <!-- Screen state service -->
     <!-- Ambient Music Ticker -->
     <!-- Screen Off animation -->
+    <string name="screen_off_animation_title">Screen off animation</string>
+    <string name="screen_off_animation_default">Default</string>
+    <string name="screen_off_animation_crt">CRT</string>
+    <string name="screen_off_animation_scale">Scale</string>
+
     <!-- Suppress notification sound/vibration -->
     <!-- Accidental Touch -->
     <!-- Dynamic Navbar -->
